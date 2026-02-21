@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication_1.1.17", "WindowsFormsApplication_1.1.17\WindowsFormsApplication_1.1.17.csproj", "{DA5753EA-502B-4BAF-962E-7D88598AE676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA5753EA-502B-4BAF-962E-7D88598AE676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5753EA-502B-4BAF-962E-7D88598AE676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5753EA-502B-4BAF-962E-7D88598AE676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5753EA-502B-4BAF-962E-7D88598AE676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
